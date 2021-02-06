@@ -1,0 +1,173 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+
+
+.header {
+	border: 2px solid blue;
+	box-sizing: border-box;
+	min-height: 100px;
+	overflow: hidden;
+}
+
+.content {
+	overflow: hidden;
+	border: 2px solid blue;
+	box-sizing: border-box;
+}
+
+.left_sidebar {
+	min-height: 600px;
+	border: 2px solid blue;
+	width: 25%;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+
+}
+
+.left_sidebar_top {
+	width: 90%;
+	margin: 10px auto;
+	border: 1px solid red;
+	min-height: 200px;
+}
+
+.left_sidebar_bottom {
+	width: 90%;
+	margin: 10px auto;
+	border: 1px solid red;
+	min-height: 350px;
+}
+
+.main_content {
+	min-height: 600px;
+	border: 2px solid blue;
+	width: 75%;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+}
+
+.content_top_wrapper {
+	width: 90%;
+	margin: 10px auto;
+	
+	min-height: 300px;
+	overflow: hidden;
+}
+
+.content_top_left_wrapper {
+	min-height: 300px;
+	
+	width: 65%;
+}
+
+.content_top_left_top_wrapper {
+	
+	min-height: 140px;
+
+}
+
+.content_top_left_top1 {
+	width: 43%;
+	min-height: 140px;
+	border: 1px solid teal;
+
+}
+
+.content_top_left_top2 {
+	width: 43%;
+	min-height: 140px;
+	border: 1px solid teal;
+}
+
+.content_top_left_bottom_wrapper {
+	border: 1px solid blue;
+	box-sizing: border-box;
+	min-height: 140px;
+	margin-top: 20px;
+}
+
+.content_top_right_wrapper {
+	min-height: 300px;
+	border: 1px solid red;
+	box-sizing: border-box;
+	width: 30%;
+}
+
+.content_middle {
+	width: 90%;
+	margin: 10px auto;
+	min-height: 100px;
+	border: 1px solid red;
+	box-sizing: border-box;
+}
+
+.content_bottom_wrapper {
+	width: 90%;
+	margin: 10px auto;
+	min-height: 150px;
+	
+}
+
+.content_bottom1 {
+	min-height: 150px;
+	border: 1px solid red;
+	box-sizing: border-box;
+	width: 60%
+}
+
+.content_bottom2 {
+	min-height: 150px;
+	border: 1px solid red;
+	box-sizing: border-box;
+	width: 30%;
+}
+
+.add {
+	width: 95%;
+	min-height: 100px;
+	border: 1px solid blue;
+	margin: 10px auto;
+	clear: both;
+}
+
+.footer_top_wrapper {
+	width: 95%;
+	min-height: 100px;
+	
+	margin: 10px auto;
+	overflow: hidden;
+}
+
+.footer_top1 {
+	min-height: 100px;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 30%;
+	
+}
+
+.footer_top2 {
+	min-height: 100px;
+	border: 1px solid blue;
+	box-sizing: border-box;
+	width: 60%;
+	
+}
+
+.footer {
+	border: 2px solid blue;
+	box-sizing: border-box;
+	min-height: 100px;
+	overflow: hidden;
+
+}
+
